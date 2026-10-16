@@ -1,0 +1,14 @@
+{
+  "name": "javascript-fundamentos",
+  "version": "1.0.0",
+  "description": "Ejercicios de JavaScript: fundamentos, recursión, programación orientada a objetos y álgebra lineal con clases.",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "author": "David Melgoza (https://github.com/D3vo1)",
+  "license": "MIT"
+}
