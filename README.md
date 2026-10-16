@@ -1,6 +1,6 @@
 # 📘 JavaScript — Fundamentos, POO y algoritmos
 
-![Pruebas](https://github.com/D3vo1/CursoDalet/actions/workflows/tests.yml/badge.svg)
+![Pruebas](https://github.com/D3vo1/javascript-fundamentos/actions/workflows/tests.yml/badge.svg)
 ![Node.js](https://img.shields.io/badge/Node.js-%E2%89%A520-339933?logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F7DF1E?logo=javascript&logoColor=black)
 
